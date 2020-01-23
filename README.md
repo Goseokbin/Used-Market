@@ -16,8 +16,6 @@ MVC 패턴을 사용하여 게시판을 작성하고 게시판 기본 기능인 
   
   #  구현 화면
   
-![image](https://user-images.githubusercontent.com/37431938/72975718-9cd9aa00-3e14-11ea-9321-c80d0ba507fd.png)
+![image](https://user-images.githubusercontent.com/37431938/72975917-f17d2500-3e14-11ea-9dde-264d3cc133d7.png)
 ![image](https://user-images.githubusercontent.com/37431938/72975718-9cd9aa00-3e14-11ea-9321-c80d0ba507fd.png)
 ![image](https://user-images.githubusercontent.com/37431938/72975738-a236f480-3e14-11ea-98de-a0bb48515cad.png)
- 
- 
